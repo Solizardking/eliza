@@ -444,7 +444,7 @@
       "name": "@elizaos/cheshire-eliza",
       "version": "0.1.0",
       "peerDependencies": {
-        "@elizaos/core": "workspace:*",
+        "@elizaos/core": ">=1.0.0 || >=2.0.0-0",
       },
     },
     "packages/cloud/api": {
@@ -1176,7 +1176,7 @@
         "clawd-plugin-run-code": "scripts/run-clawd-code.mjs",
       },
       "dependencies": {
-        "@solana-clawd/clawd-code": "workspace:*",
+        "@solana-clawd/clawd-code": "^1.0.0",
       },
     },
     "plugins/plugin-agent-orchestrator": {
@@ -1431,14 +1431,14 @@
       "name": "@elizaos/plugin-cheshire-memory",
       "version": "0.1.0",
       "peerDependencies": {
-        "@elizaos/core": "workspace:*",
+        "@elizaos/core": ">=1.0.0 || >=2.0.0-0",
       },
     },
     "plugins/plugin-clawdbrowser": {
       "name": "@elizaos/plugin-clawdbrowser",
       "version": "0.1.0",
       "peerDependencies": {
-        "@elizaos/core": "workspace:*",
+        "@elizaos/core": ">=1.0.0 || >=2.0.0-0",
       },
     },
     "plugins/plugin-cli": {

@@ -1,4 +1,5 @@
-import { Br as LinearSRGBColorSpace, J as BufferGeometry, To as SRGBColorSpace, Ur as Loader, ir as InterleavedBufferAttribute, lt as ColorManagement, q as BufferAttribute, rr as InterleavedBuffer, st as Color, vn as FileLoader } from "./three.module-DGMucbGR.js";
+import { B as BufferAttribute, Ir as Loader, Nr as LinearSRGBColorSpace, V as BufferGeometry, Xn as InterleavedBuffer, Zn as InterleavedBufferAttribute, bo as SRGBColorSpace, dn as FileLoader, et as Color, nt as ColorManagement } from "./three.core-BXLKo011.js";
+import "./three.js";
 //#region ../../node_modules/three/examples/jsm/loaders/DRACOLoader.js
 var _taskCache = /* @__PURE__ */ new WeakMap();
 /**
